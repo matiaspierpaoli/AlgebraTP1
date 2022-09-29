@@ -1,0 +1,20 @@
+﻿  Source.cpp
+D:\Users\ianco\Desktop\Image\2022\2do cuatri\Algebra1\Cuadrilatero2\Cuadrilatero\Cuadrilatero\Source.cpp(134,1): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+D:\Users\ianco\Desktop\Image\2022\2do cuatri\Algebra1\Cuadrilatero2\Cuadrilatero\Cuadrilatero\Source.cpp(259,10): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+D:\Users\ianco\Desktop\Image\2022\2do cuatri\Algebra1\Cuadrilatero2\Cuadrilatero\Cuadrilatero\Source.cpp(309,58): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Users\ianco\Desktop\Image\2022\2do cuatri\Algebra1\Cuadrilatero2\Cuadrilatero\Cuadrilatero\Source.cpp(324,15): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Users\ianco\Desktop\Image\2022\2do cuatri\Algebra1\Cuadrilatero2\Cuadrilatero\Cuadrilatero\Source.cpp(327,15): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Users\ianco\Desktop\Image\2022\2do cuatri\Algebra1\Cuadrilatero2\Cuadrilatero\Cuadrilatero\Source.cpp(333,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Users\ianco\Desktop\Image\2022\2do cuatri\Algebra1\Cuadrilatero2\Cuadrilatero\Cuadrilatero\Source.cpp(420,55): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Users\ianco\Desktop\Image\2022\2do cuatri\Algebra1\Cuadrilatero2\Cuadrilatero\Cuadrilatero\Source.cpp(434,55): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Users\ianco\Desktop\Image\2022\2do cuatri\Algebra1\Cuadrilatero2\Cuadrilatero\Cuadrilatero\Source.cpp(451,55): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Users\ianco\Desktop\Image\2022\2do cuatri\Algebra1\Cuadrilatero2\Cuadrilatero\Cuadrilatero\Source.cpp(501,53): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Users\ianco\Desktop\Image\2022\2do cuatri\Algebra1\Cuadrilatero2\Cuadrilatero\Cuadrilatero\Source.cpp(503,28): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Users\ianco\Desktop\Image\2022\2do cuatri\Algebra1\Cuadrilatero2\Cuadrilatero\Cuadrilatero\Source.cpp(516,53): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Users\ianco\Desktop\Image\2022\2do cuatri\Algebra1\Cuadrilatero2\Cuadrilatero\Cuadrilatero\Source.cpp(518,28): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Users\ianco\Desktop\Image\2022\2do cuatri\Algebra1\Cuadrilatero2\Cuadrilatero\Cuadrilatero\Source.cpp(533,53): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Users\ianco\Desktop\Image\2022\2do cuatri\Algebra1\Cuadrilatero2\Cuadrilatero\Cuadrilatero\Source.cpp(535,28): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Users\ianco\Desktop\Image\2022\2do cuatri\Algebra1\Cuadrilatero2\Cuadrilatero\Cuadrilatero\Source.cpp(553,53): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Users\ianco\Desktop\Image\2022\2do cuatri\Algebra1\Cuadrilatero2\Cuadrilatero\Cuadrilatero\Source.cpp(555,28): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Users\ianco\Desktop\Image\2022\2do cuatri\Algebra1\Cuadrilatero2\Cuadrilatero\Cuadrilatero\Source.cpp(577,13): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+  Cuadrilatero.vcxproj -> D:\Users\ianco\Desktop\Image\2022\2do cuatri\Algebra1\Cuadrilatero2\Cuadrilatero\x64\Debug\Cuadrilatero.exe
